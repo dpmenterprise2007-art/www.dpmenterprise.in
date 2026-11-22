@@ -1,0 +1,8 @@
+name = "dpm-enterprise-site"
+pages_build_output_dir = "./"
+compatibility_date = "2026-11-22"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "dpm-enterprise-inquiries"
+database_id = "REPLACE_AFTER_CREATING_D1_DATABASE"
